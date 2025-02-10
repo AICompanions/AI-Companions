@@ -2,7 +2,7 @@
 
 > AI + VR/AR + Blockchain to build deeply personalized, emotionally responsive virtual companions—delivered as a modern web platform with a clean, scalable codebase.
 
-AI Companions aims to create immersive, customizable **AI companions** that adapt to each user over time, with token-gated features and a path toward richer experiences in VR/AR and integrations with smart devices. The native utility token **$AIC** underpins access tiers, upgrades, staking mechanics, and future ecosystem utilities. [AI Companions](https://aivcompanions.com/?utm_source=chatgpt.com)
+AI Companions aims to create immersive, customizable **AI companions** that adapt to each user over time, with token-gated features and a path toward richer experiences in VR/AR and integrations with smart devices. The native utility token **$AIC** underpins access tiers, upgrades, staking mechanics, and future ecosystem utilities. [AI Companions](https://aivcompanions.com/)
 
 ---
 
@@ -32,7 +32,7 @@ AI Companions aims to create immersive, customizable **AI companions** that adap
 
 - **Personalized relationships:** Companions learn user preferences and evolve in personality, response style, and content over time.
 - **Immersive UX:** The long-term plan includes richer **VR/AR** experiences and integrations with devices and wearables.
-- **Tokenized utilities:** The **$AIC** token is intended for premium features, upgrades, potential staking, and marketplace interactions. [AI Companions](https://aivcompanions.com/?utm_source=chatgpt.com)
+- **Tokenized utilities:** The **$AIC** token is intended for premium features, upgrades, potential staking, and marketplace interactions. [AI Companions](https://aivcompanions.com/)
 
 > Exchange listings and third-party coverage (BitMart primary listing, 2024-09-09) have introduced $AIC to broader markets; see external resources for details. BitMart+1
 
@@ -255,19 +255,19 @@ A placeholder **AIC** ERC-20 scaffold exists under `/contracts` for future token
 
 **Phase 1 (Q4 2024 – Q1 2025)**
 
-Core foundation: whitepaper/site, token launch/listings, initial web/API/AI scaffolds, health endpoints, basic auth, and developer tooling. [AI Companions](https://aivcompanions.com/AIC_Whitepaper.pdf?utm_source=chatgpt.com)
+Core foundation: whitepaper/site, token launch/listings, initial web/API/AI scaffolds, health endpoints, basic auth, and developer tooling. [AI Companions](https://aivcompanions.com/AIC_Whitepaper.pdf)
 
 **Phase 2 (Q2 – Q3 2025)**
 
-Customizable companions (MVP), improved personalization, content packs, initial marketplace concepts, expanded docs/community. [AI Companions](https://aivcompanions.com/AIC_Whitepaper.pdf?utm_source=chatgpt.com)
+Customizable companions (MVP), improved personalization, content packs, initial marketplace concepts, expanded docs/community. [AI Companions](https://aivcompanions.com/AIC_Whitepaper.pdf)
 
 **Phase 3 (Q4 2025 – Q1 2026)**
 
-User-generated content, gamification loops, collectibles, social features. [AI Companions](https://aivcompanions.com/AIC_Whitepaper.pdf?utm_source=chatgpt.com)
+User-generated content, gamification loops, collectibles, social features. [AI Companions](https://aivcompanions.com/AIC_Whitepaper.pdf)
 
 **Phase 4 (Q2 – Q3 2026)**
 
-VR/AR integrations, wearables/smart-home hooks, cross-chain support, and advanced safety/controls. [AI Companions](https://aivcompanions.com/AIC_Whitepaper.pdf?utm_source=chatgpt.com)
+VR/AR integrations, wearables/smart-home hooks, cross-chain support, and advanced safety/controls. [AI Companions](https://aivcompanions.com/AIC_Whitepaper.pdf)
 
 > Disclaimer: Timelines are directional and depend on delivery, audits, and ecosystem factors.
 
@@ -294,7 +294,7 @@ MIT © AI Companions
 
 ### References & External Resources
 
-- Official site: aivcompanions.com (vision, marketing site). [AI Companions](https://aivcompanions.com/?utm_source=chatgpt.com)
-- Whitepaper (PDF): roadmap, token/vision details. [AI Companions](https://aivcompanions.com/AIC_Whitepaper.pdf?utm_source=chatgpt.com)
+- Official site: aivcompanions.com (vision, marketing site). [AI Companions](https://aivcompanions.com/)
+- Whitepaper (PDF): roadmap, token/vision details. [AI Companions](https://aivcompanions.com/AIC_Whitepaper.pdf)
 
 ---
