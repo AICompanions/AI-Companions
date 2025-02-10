@@ -9,9 +9,16 @@ function Error({ statusCode }: { statusCode?: number }) {
   );
 }
 
-// Keep it super-basic so prerender never trips over complex children
+function getStatusCode(err: unknown): number | undefined {
+  if (typeof err === 'object' && err !== null && 'statusCode' in err) {
+    const code = (err as Record<string, unknown>).statusCode;
+    if (typeof code === 'number') return code;
+  }
+  return undefined;
+}
+
 Error.getInitialProps = ({ res, err }: NextPageContext) => {
-  const statusCode = res?.statusCode ?? (err as any)?.statusCode ?? 404;
+  const statusCode = res?.statusCode ?? getStatusCode(err) ?? 404;
   return { statusCode };
 };
 
