@@ -1,14 +1,14 @@
-import { Body, Controller, Post } from '@nestjs/common';
+import { Controller, Post } from '@nestjs/common';
 
 @Controller('auth')
 export class AuthController {
   @Post('signup')
-  signup(@Body() _dto: any) {
+  signup() {
     return { ok: true, userId: 'stub' };
   }
 
   @Post('login')
-  login(@Body() _dto: any) {
+  login() {
     return { ok: true, token: 'stub.jwt.token' };
   }
 }
