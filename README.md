@@ -286,6 +286,27 @@ Please read **CONTRIBUTING.md** and follow conventional commits (e.g., `feat:`, 
 
 ---
 
+## Community
+
+Stay connected with the AI Companions community:
+
+<p align="left">
+  <a href="https://aivcompanions.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-aivcompanions.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://t.me/AIV_Companions" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://x.com/AIV_Companions" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@AICompanions-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://discord.com/invite/2UEgCGHGCa" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+---
+
 ## License
 
 MIT © AI Companions
