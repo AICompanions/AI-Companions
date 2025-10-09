@@ -1,0 +1,32 @@
+services:
+  web:
+    build: ./docker/web
+    ports: ["3000:3000"]
+    environment: ["API_URL=http://localhost:3001"]
+    volumes: ["../apps/web:/app"]
+    command: ["npm", "run", "dev"]
+  api:
+    build: ./docker/api
+    ports: ["3001:3001"]
+    env_file: ["../apps/api/.env.example"]
+    volumes: ["../apps/api:/app"]
+    command: ["npm", "run", "start:dev"]
+  db:
+    image: postgres:16
+    ports: ["5432:5432"]
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: aic
+    volumes: ["pg:/var/lib/postgresql/data"]
+  ai:
+    build: ./docker/ai
+    ports: ["8001:8001"]
+    volumes: ["../apps/ai:/app"]
+    command:
+      [
+        "sh",
+        "-c",
+        "python -m uvicorn app.main:app --host 0.0.0.0 --port 8001 --reload",
+      ]
+volumes:
+  pg: {}
